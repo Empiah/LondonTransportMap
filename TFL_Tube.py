@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-tube_df = pd.read_csv('/Users/oliverphipps/Dropbox/6. Python/Python Projects/TFL Tube Project/2015_Data_TFL.csv')
+tube_df = pd.read_csv('/Users/.../2015_Data_TFL.csv')
 
 tube_df.head()
 
